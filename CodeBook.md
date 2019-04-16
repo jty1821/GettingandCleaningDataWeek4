@@ -1,7 +1,7 @@
-#Codebook
-##The dimension of the Tidy Data Set
+# Codebook
+## The dimension of the Tidy Data Set
 180 rows and 82 columns
-##The variables in the Tidy Data Set
+## The variables in the Tidy Data Set
 1. "subjectID"                                                        
 2. "activityType"                                                     
 3. "activityID"                                                       
